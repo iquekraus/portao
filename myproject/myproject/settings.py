@@ -44,7 +44,8 @@ THIRD_PARTY_APPS = [
 ]
 
 PROJECT_APPS = [
-    'api',
+    'comments',
+    'users'
 ]
 
 
