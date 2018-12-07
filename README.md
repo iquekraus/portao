@@ -11,8 +11,11 @@ Dependencias:
     pip install djangorestframework
     pip install django-model-utils
 
+    python manage.py runserver
     
-
+    Migração BD:
+    python manage.py makemigrations
+    python manage.py migrate
 
 
 
