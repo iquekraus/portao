@@ -11,6 +11,8 @@ Dependencias:
     pip install djangorestframework
     pip install django-model-utils
 
+	pip install django-cors-headers
+
     python manage.py runserver
     
     Migração BD:
